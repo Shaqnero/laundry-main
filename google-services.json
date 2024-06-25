@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390616978360",
+    "project_id": "rn-auth-8ac64",
+    "storage_bucket": "rn-auth-8ac64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390616978360:android:e5b84b27cade63bff4754d",
+        "android_client_info": {
+          "package_name": "com.rn.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60aMApxYpNslFSkAjSdHUoypq7D5IgDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

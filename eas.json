@@ -1,0 +1,21 @@
+
+{
+  "build": {
+    "release": {},
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "node": "14.17.1"
+    },
+    "preview": {
+      "android": {
+        "buildType": "apk",
+        "distribution": "internal"
+      }
+    },
+    "production": {}
+  },
+  "submit": {
+    "release": {}
+  }
+}
